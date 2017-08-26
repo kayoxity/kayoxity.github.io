@@ -226,6 +226,7 @@ li.dropdown
 	background: rgba(255,255,255,0.2);
 	text-decoration: none;
 	z-index: 5;
+	box-shadow: 0 0 5px rgba(255,255,255,0.4);
 }
 
 .fa-angle-double-down:hover
