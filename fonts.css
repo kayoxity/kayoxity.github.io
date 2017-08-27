@@ -1,6 +1,6 @@
-@font-face { font-family: 'alien league'; src: url('kayoxity.github.io/Font/alienleague.ttf'); } 
-@font-face { font-family: 'joshe mano alzada'; src: url('kayoxity.github.io/Font/Joshe_0.ttf'); } 
-@font-face { font-family: 'matura mt script capitals'; src: url('kayoxity.github.io/Font/MATURASC.TTF'); } 
-@font-face { font-family: 'vladimir script'; src: url('kayoxity.github.io/Font/VLADIMIR.TTF'); } 
-@font-face { font-family: 'vanadine'; src: url('kayoxity.github.io/Font/Vanadine Bold_0.ttf'); } 
-@font-face { font-family: 'vanadine'; src: url('kayoxity.github.io/Font/Vanadine Regular_0.ttf'); } 
+@font-face { font-family: 'alien league'; src: url('./Font/alienleague.ttf'); } 
+@font-face { font-family: 'joshe mano alzada'; src: url('./Font/Joshe_0.ttf'); } 
+@font-face { font-family: 'matura mt script capitals'; src: url('./Font/MATURASC.TTF'); } 
+@font-face { font-family: 'vladimir script'; src: url('./Font/VLADIMIR.TTF'); } 
+@font-face { font-family: 'vanadine'; src: url('./Font/Vanadine Bold_0.ttf'); } 
+@font-face { font-family: 'vanadine'; src: url('./Font/Vanadine Regular_0.ttf'); } 
