@@ -2,5 +2,5 @@
 @font-face { font-family: 'joshe mano alzada'; src: url('./Font/Joshe_0.ttf'); } 
 @font-face { font-family: 'matura mt script capitals'; src: url('./Font/MATURASC.TTF'); } 
 @font-face { font-family: 'vladimir script'; src: url('./Font/VLADIMIR.TTF'); } 
-@font-face { font-family: 'vanadine'; src: url('./Font/Vanadine Bold_0.ttf'); } 
+@font-face { font-family: 'vanadine'; src: url('./Font/Vanadine Bold_0.ttf');font-weight:bold; } 
 @font-face { font-family: 'vanadine'; src: url('./Font/Vanadine Regular_0.ttf'); } 
